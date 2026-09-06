@@ -1,0 +1,23 @@
+{
+  "repo": "inventor-pro-2026-mechanical-design-complete-edition",
+  "product": "Inventor Pro 2026 Mechanical Design Complete Edition",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "cad",
+  "topics": [
+    "autodesk-inventor",
+    "mechanical-cad",
+    "parametric-parts",
+    "sheet-metal",
+    "assembly-design",
+    "inventor-setup-failed-fix",
+    "how-to-install-inventor",
+    "inventor-windows",
+    "inventor-desktop-2026",
+    "inventor-desktop-package"
+  ],
+  "site": "toolix.me"
+}
